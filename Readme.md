@@ -28,8 +28,8 @@ This project performs sentiment analysis on text reviews using Natural Language 
 
 | Model              | Accuracy |
 | ------------------ | -------- |
-| Bag of Words (BoW) | 89%      |
-| TF-IDF             | 58%      |
+| Bag of Words (BoW) | 83.9%      |
+| TF-IDF             | 63%      |
 
 ## Conclusion
 
@@ -45,5 +45,4 @@ The Bag of Words model achieved higher accuracy than the TF-IDF model on the giv
 
 ## Author
 
-Mehul
-B.Tech, KIIT University
+Mehul Kumar
